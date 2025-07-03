@@ -75,4 +75,4 @@ This animation showcases:
 
 
 ## 🤝 Contact
-Created by **Sai Darshan Balaji** – Reach out via GitHub or LinkedIn for collaboration or questions.
+Created by **Sai Darshan Balaji** – Reach out via GitHub or LinkedIn.

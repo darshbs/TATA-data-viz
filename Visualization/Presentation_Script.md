@@ -10,7 +10,7 @@ I’ve carefully worked through the data to ensure the visuals you're about to s
 
 **Let’s Approach the Overview**
 
-To begin, I first explored the dataset thoroughly—this helped me understand what kind of information we had and what cleaning it needed.
+To begin, I first explored the dataset thoroughly, this helped me understand what kind of information we had and what cleaning it needed.
 
 I then focused on the four key questions you asked and prepared the data accordingly.
 
@@ -23,7 +23,7 @@ To make sure the insights were reliable:
 
 **[Question 1: Monthly Revenue Trends – 1:00 – 1:45]**
 
-Jumping Straight to Question 1 — Monthly Revenue Trends
+Jumping Straight to Question 1: Monthly Revenue Trends
 
 For the first question, the CEO wanted to view how revenue changed each month during the year 2011.
 
@@ -39,7 +39,7 @@ This monthly pattern can help with planning inventory, marketing campaigns, and 
 
 **[Question 2: Top 10 Countries by Revenue – 1:45 – 2:30]**
 
-Next, for the CMO, I identified the top 10 countries generating the highest revenue—excluding the United Kingdom, as per your request.
+Next, for the CMO, I identified the top 10 countries generating the highest revenue, excluding the United Kingdom, as per your request.
 
 I used a combined bar chart to show both the **total revenue** and **quantity sold** side by side for each country.
 
