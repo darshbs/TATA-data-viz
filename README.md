@@ -73,15 +73,7 @@ This animation showcases:
 - 👤 Q3. **Bar/Column Chart** - Top Customers by Revenue 
 - 🗺️ Q4. **Map** - Product Demand by Country excluding UK
 
-
-<<<<<<< HEAD
-##  Contact
-Created by **Sai Darshan Balaji** 
-
-Reach out via [LinkedIn](https://www.linkedin.com/in/saidarshanbalaji/), [Mail](mailto::saidarshan.balaji@gmail.com).
-=======
 ## 📧 Contact
 Created by **Sai Darshan Balaji** 
 
 Reach out via [LinkedIn](https://www.linkedin.com/in/saidarshanbalaji/), [Mail](mailto::saidarshan.balaji@gmail.com).
->>>>>>> 2237e0eb4f75c927b001db14c9c6b619f3410b15
