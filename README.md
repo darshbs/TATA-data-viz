@@ -57,10 +57,10 @@ This virtual internship is designed to strengthen data analysis, storytelling, a
 - **Notion** - Scripting and Summary (Notes)
 
 ## 📁 Files Included
-- `Visualization/TATA - Data Visualization Tableau.twbx` – Tableau Workbook containing dashboard and vizs
-- `Visualization/TATA-Data-Visualisation.pptx` – Slide deck used for executive presentation
-- `Visualization/Presentation_Script.md ` – 5-minute narration script
-- `Online Retail Dataset.xlsx` – (optional) Raw Dataset in CSV format
+- [`Visualization/TATA - Data Visualization Tableau.twbx`](https://github.com/darshbs/TATA-data-viz/tree/main/Visualization) – Tableau Workbook containing dashboard and vizs
+- [`Visualization/TATA-Data-Visualisation.pptx`](https://github.com/darshbs/TATA-data-viz/tree/main/Visualization) – Slide deck used for executive presentation
+- [`Visualization/Presentation_Script.md `](https://github.com/darshbs/TATA-data-viz/tree/main/Visualization) – 5-minute narration script
+- [`Online Retail Dataset.xlsx`](https://github.com/darshbs/TATA-data-viz/blob/main/Online%20Retail%20Data%20Set.xlsx) – (optional) Raw Dataset in CSV format
 
 
 ## 📊 Dashboard Preview
