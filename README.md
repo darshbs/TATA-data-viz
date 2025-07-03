@@ -74,5 +74,7 @@ This animation showcases:
 - 🗺️ Q4. **Map** - Product Demand by Country excluding UK
 
 
-## 🤝 Contact
-Created by **Sai Darshan Balaji** – Reach out via GitHub or LinkedIn.
+## 📧 Contact
+Created by **Sai Darshan Balaji** 
+
+Reach out via [LinkedIn](https://www.linkedin.com/in/saidarshanbalaji/), [Mail](mailto::saidarshan.balaji@gmail.com).
