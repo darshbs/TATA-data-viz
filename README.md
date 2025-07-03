@@ -30,7 +30,7 @@ This virtual internship is designed to strengthen data analysis, storytelling, a
 - Expansion markets (e.g., Netherlands, Ireland, Australia)
 - Retention strategy for high-value customers
 
-## 🔍 Business Questions Answered
+## ⁉️ Business Questions Answered
 
 1. **Monthly Revenue Trend of 2011**  
    To identify seasonal revenue patterns and support demand forecasting.
