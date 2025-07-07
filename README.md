@@ -4,6 +4,11 @@ Welcome to the repository for my completed TATA Data Visualisation Virtual Exper
 ## 🚀 Project Overview
 This virtual internship is designed to strengthen data analysis, storytelling, and dashboard creation skills using a real-world dataset from an online retail business. The project involves answering specific business questions raised by the CEO and CMO through insightful, clean, and interactive data visualisations.
 
+I have worked on this project with both the tools, ![Visuals below](##📊 Dashboards Preview) i.e., 
+- Tableau
+- Power BI
+
+
 ## 📌 Task Breakdown
 ### ✅ Task 1: Data Cleaning
 - Removed rows with negative quantities and zero/negative unit prices
@@ -63,9 +68,12 @@ This virtual internship is designed to strengthen data analysis, storytelling, a
 - [`Online Retail Dataset.xlsx`](https://github.com/darshbs/TATA-data-viz/blob/main/Online%20Retail%20Data%20Set.xlsx) – (optional) Raw Dataset in CSV format
 
 
-## 📊 Dashboard Preview
+## 📊 Dashboards Preview
+### Tableau 
+![Dashboard GIF](Tableau_Viz_GIF.gif)
 
-![Dashboard GIF](Tableau_Visuals_Animated.gif)
+### PowerBI
+![Dashboard GIF](PowerBI_Viz_GIF.gof)
 
 This animation showcases:
 - 📈 Q1. **Line Chart** - Monthly Revenue Trends of 2011 
