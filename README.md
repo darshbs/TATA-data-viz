@@ -4,7 +4,7 @@ Welcome to the repository for my completed TATA Data Visualisation Virtual Exper
 ## 🚀 Project Overview
 This virtual internship is designed to strengthen data analysis, storytelling, and dashboard creation skills using a real-world dataset from an online retail business. The project involves answering specific business questions raised by the CEO and CMO through insightful, clean, and interactive data visualisations.
 
-I have worked on this project with both the tools, [Visuals below](#Dashboards-Preview) i.e., 
+I have worked on this project with both the tools, [Visuals below](#📊%20Dashboards%20Preview) i.e., 
 - Tableau
 - Power BI
 
