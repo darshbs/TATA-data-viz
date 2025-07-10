@@ -8,6 +8,7 @@ I have worked on this project with both the tools, [Visuals below](#📊%20Dashb
 - [![Tableau](https://custom-icon-badges.demolab.com/badge/Tableau-0176D3?logo=tableau&logoColor=fff)](#)
 - [![Power BI](https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912?logo=power-bi&logoColor=fff)](#)
 
+Check out the Tableau Dashboard [here](https://public.tableau.com/app/profile/darshan.6292/viz/TATA-Assignment/Dashboard1)
 
 ## 📌 Task Breakdown
 ### ✅ Task 1: Data Cleaning
