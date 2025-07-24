@@ -1,5 +1,5 @@
 # 📊 Retail Sales Analysis Using Tableau
-Welcome to the repository for my completed TATA Data Visualisation Virtual Experience Program hosted on The Forage. This simulation mimics real-world tasks performed by data analysts and visualisation professionals at TATA, focusing on insights-driven business reporting.
+Welcome to the repository for my completed TATA Data Visualisation Virtual Experience Program hosted on [The Forage](https://www.theforage.com/simulations/tata/data-visualisation-p5xo). This simulation mimics real-world tasks performed by data analysts and visualisation professionals at TATA, focusing on insights-driven business reporting.
 
 ## 🚀 Project Overview
 This virtual internship is designed to strengthen data analysis, storytelling, and dashboard creation skills using a real-world dataset from an online retail business. The project involves answering specific business questions raised by the CEO and CMO through insightful, clean, and interactive data visualisations.
